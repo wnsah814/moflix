@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/moflix/static/js/main.31700fe1.js",
+    "main.js": "/moflix/static/js/main.86e998b0.js",
     "index.html": "/moflix/index.html",
-    "main.31700fe1.js.map": "/moflix/static/js/main.31700fe1.js.map"
+    "main.86e998b0.js.map": "/moflix/static/js/main.86e998b0.js.map"
   },
   "entrypoints": [
-    "static/js/main.31700fe1.js"
+    "static/js/main.86e998b0.js"
   ]
 }
